@@ -2,7 +2,6 @@ ru\kpfu\itis\controller\IndexController.class
 ru\kpfu\itis\repository\CalculatorRepository.class
 ru\kpfu\itis\util\UserRegistrationFormToUserTransformer.class
 ru\kpfu\itis\repository\UserRepository.class
-ru\kpfu\itis\security\AuthProviderImpl.class
 ru\kpfu\itis\service\impl\UserServiceImpl.class
 ru\kpfu\itis\repository\SessionHistory.class
 ru\kpfu\itis\model\Operation.class

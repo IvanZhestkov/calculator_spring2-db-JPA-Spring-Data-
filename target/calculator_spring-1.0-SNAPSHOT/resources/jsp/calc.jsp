@@ -35,7 +35,7 @@
     </sf:form>
 
     <form action="logout">
-                             <button type="submit" class="btn btn-default">Log out</button>
+        <button type="submit" class="btn btn-default">Log out</button>
     </form>
 
 </body>
