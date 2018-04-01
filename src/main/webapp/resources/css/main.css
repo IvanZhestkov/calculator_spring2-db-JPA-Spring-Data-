@@ -1,0 +1,21 @@
+header {
+    background-color: #1b6d85;
+    color: white;
+    height: 50px;
+    width: 100%;
+    padding-top: 15px;
+    position: absolute;
+    top: 0;
+}
+
+header a{
+    color: white;
+}
+
+header .userside {
+    text-align: right;
+}
+
+.content {
+    margin-top: 60px;
+}
